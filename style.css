@@ -1,0 +1,12 @@
+h1 {
+    font-size: 20px;
+    background-color: rgb(242, 242, 242);
+    font-family: "Winky Rough", sans-serif;
+}
+div {
+    background-color: darkblue;
+}
+.imge{display: block;
+    margin: 4% auto;
+
+ }
